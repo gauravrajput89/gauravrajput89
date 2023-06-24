@@ -1,4 +1,4 @@
-### Welcome to Data Insights with Gaurav Github repository
+### Welcome to Data Insights with Gaurav 
 - 👋 Hi, I’m Gaurav Rajput
 - 👀 I’m interested in Exploring Data Insights: Unleashing the Power of Data Analysis and Beyond!
 Join me on a captivating journey into the world of Data Insights, where we unravel the wonders of data analysis and the vibrant ecosystem that surrounds it. Dive deep into the realm of data exploration, uncovering hidden patterns, and extracting valuable insights that drive informed decision-making.
